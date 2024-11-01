@@ -22,10 +22,14 @@ You and your essay partner will facilitate an in-class discussion.
 - Think of yourself as serving the group. As a facilitator, your primary role is not presenting your own opinion. Your primary role is to encourage a quality conversation on the topic of your choice.
 - As a discussion facilitator, you want to strike a balance between letting an organic conversation develop and intervening to keep things on track.
 - Strategies for facilitation:
-  - Be patient after you pose a question to the group. Sometimes folks need time to form thoughts.
-  - Watch for non-verbal cues. If it looks like someone has something to say but hasn't found a chance, you can offer them an opportunity to jump in.
-  - Don't make too many assumptions about what discussion participants believe. Sometimes people state opinions definitively, when they are not actually that certain. Compare "So you're saying that ..." with "I could see how someone could think that ..."
-  - Restate contributions if you think they were not heard well (for example if the speaker was quiet)
+  - **Be patient** after you pose a question to the group. Sometimes folks need time to form thoughts.
+  - **Watch for non-verbal cues.** If it looks like someone has something to say but hasn't found a chance, you can offer them an opportunity to jump in.
+  - **Don't make too many assumptions** about what discussion participants believe. Sometimes people state opinions definitively, when they are not actually that certain. Compare "So you're saying that ..." with "I could see how someone could think that ..."
+  - **Restate contributions** if you think they were not heard well (for example if the speaker was quiet)
+  - **Lead through questions**. If you have something from the reading that you want to bring into the discussion, try to pull it out of others in the group. You can try asking the group a question that leads towards the focal point you wanted to bring up.
+  - **Eye on the prize.** Keep an eye on what ethical issues are at stake.
+  - **Untangle** multiple discussion threads if having multiple issues gets to confusing.
+  - **Challenge Assumptions** If discussion participants say things like "free markets always do X", or "it's impossible to build technology that does Y", you can challenge these generalizations. Try "What makes you say that?".
 
 ## Step 3b: Take notes during the discussion
 
